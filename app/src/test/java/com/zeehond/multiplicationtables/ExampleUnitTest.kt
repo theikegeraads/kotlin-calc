@@ -1,4 +1,4 @@
-package com.zeehond.calculator
+package com.zeehond.multiplicationtables
 
 import org.junit.Test
 

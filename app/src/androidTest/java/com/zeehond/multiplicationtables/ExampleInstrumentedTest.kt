@@ -1,4 +1,4 @@
-package com.zeehond.calculator
+package com.zeehond.multiplicationtables
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.zeehond.calculator", appContext.packageName)
+        assertEquals("com.zeehond.multiplicationtables", appContext.packageName)
     }
 }

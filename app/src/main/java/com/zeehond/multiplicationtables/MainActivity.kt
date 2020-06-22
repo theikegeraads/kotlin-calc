@@ -47,24 +47,24 @@ class MainActivity : AppCompatActivity() {
             val displayValue = "${realValue + 1}"
             var l1t = "1 x $displayValue = ${1 * displayValue.toInt()}"
             label1.text = l1t
-            var l2t = "1 x $displayValue = ${2 * displayValue.toInt()}"
+            var l2t = "2 x $displayValue = ${2 * displayValue.toInt()}"
             label2.text = l2t
-            var l3t = "1 x $displayValue = ${4 * displayValue.toInt()}"
+            var l3t = "3 x $displayValue = ${3 * displayValue.toInt()}"
             label3.text = l3t
-            var l4t = "1 x $displayValue = ${4 * displayValue.toInt()}"
+            var l4t = "4 x $displayValue = ${4 * displayValue.toInt()}"
             label4.text = l4t
-            var l5t = "1 x $displayValue = ${5 * displayValue.toInt()}"
+            var l5t = "5 x $displayValue = ${5 * displayValue.toInt()}"
             label5.text = l5t
 
-            var l6t = "1 x $displayValue = ${6 * displayValue.toInt()}"
+            var l6t = "6 x $displayValue = ${6 * displayValue.toInt()}"
             label6.text = l6t
-            var l7t = "1 x $displayValue = ${7 * displayValue.toInt()}"
+            var l7t = "7 x $displayValue = ${7 * displayValue.toInt()}"
             label7.text = l7t
-            var l8t = "1 x $displayValue = ${8 * displayValue.toInt()}"
+            var l8t = "8 x $displayValue = ${8 * displayValue.toInt()}"
             label8.text = l8t
-            var l9t = "1 x $displayValue = ${9 * displayValue.toInt()}"
+            var l9t = "9 x $displayValue = ${9 * displayValue.toInt()}"
             label9.text = l9t
-            var l10t = "1 x $displayValue = ${10 * displayValue.toInt()}"
+            var l10t = "10 x $displayValue = ${10 * displayValue.toInt()}"
             label10.text = l10t
         }
 
